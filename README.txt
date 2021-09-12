@@ -61,7 +61,7 @@
 
 +--------------------------------+
 | ======== INSTRUCTIONS ======== |
-| (1) Download "error-graph.py"  |
+| (1) Download "Error-Graph.py"  |
 |     and move it to the same    |
 |     directory in which the     |
 |     program resides.           |
